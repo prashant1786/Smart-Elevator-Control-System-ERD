@@ -42,5 +42,5 @@ It supports:
 ## Files
 
 - `erd-diagram.png` – ER diagram image
-- `schema.txt` or `eraser-code.txt` – ER diagram definition (Eraser format)
+
 - `README.md` – Project documentation
